@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/torbvat/norkart-webkurs-CICD-React/static/css/main.b326aaf9.css",
+    "main.js": "/torbvat/norkart-webkurs-CICD-React/static/js/main.a618119f.js",
+    "static/js/mapbox-gl-csp-worker.57adec25.worker.js": "/torbvat/norkart-webkurs-CICD-React/static/js/mapbox-gl-csp-worker.57adec25.worker.js",
+    "index.html": "/torbvat/norkart-webkurs-CICD-React/index.html",
+    "main.b326aaf9.css.map": "/torbvat/norkart-webkurs-CICD-React/static/css/main.b326aaf9.css.map",
+    "main.a618119f.js.map": "/torbvat/norkart-webkurs-CICD-React/static/js/main.a618119f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b326aaf9.css",
+    "static/js/main.a618119f.js"
+  ]
+}
